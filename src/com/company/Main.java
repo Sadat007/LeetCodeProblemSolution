@@ -3,15 +3,16 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+        int x = 10,y = 20;
+        add(x,y);
 
 
 
     }
-    public void add(int a,int b)
+    public static void add(int a,int b)
     {
-        thi.
-        int b = a+b;
-        return (a+b);
+        this.
+
     }
 
 
